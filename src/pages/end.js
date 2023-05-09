@@ -106,8 +106,8 @@ export default function End() {
     <>
       <div style={containerStyleEnd}>
         <div style={imageContainerStyleEnd}>
-          <Image src="/giphy.gif" alt="Your Image" width="400" height="600" />
-          <p style={imageStyleEnd}>Villagers WIN!</p>
+          <Image src="/giphy-1.gif" alt="Your Image" width="400" height="600" />
+          <p style={imageStyleEnd}>Werewolves WIN!</p>
         </div>
         <div style={chatContainerStyleEnd}>
           <div style={chatContentContainerStyleEnd}>
